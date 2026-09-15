@@ -1,0 +1,18 @@
+﻿key,value
+input_rows,3000
+shuffle_seed,20260914
+endpoints,200;400;600;800;1000;1200;1400;1600;1800;2000;2200;2400;2600;2800;3000
+batch_size_nominal,200
+warmup_full_sequential_passes,1
+measured_full_sequential_repetitions,10
+python_version,"3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]"
+platform,Linux-6.18.44-x86_64-with-glibc2.41
+repository_lifecycle,Persistent within each full repetition: R0 -> R200 -> ... -> R3000; reset only between independent repetitions
+timing_scope,"Expression string to usable AST representation; normalization/tokenization included. Fresh N-Table and Pratt return materialized AstNode trees. Shared reuse returns BoundAst(shared immutable topology, operands) and does not materialize on hot path."
+NTable_Fresh,build_ast(expression): fresh D + MRC + materialized AstNode tree
+NTable_SharedReuse,"build_with_reuse(expression, persistent_repo).ast: hash signature; hot hit reuses D and immutable topology; returns constant-size BoundAst"
+Pratt,PrattParser.parse(expression): direct materialized AstNode construction under same OperatorSpec and tokenizer contract
+comparable_total_at_3000,2930
+excluded_total_at_3000,70
+final_repository_unique_structures,67
+correctness_checks,D reuse == fresh; BoundAst prefix == Fresh prefix == Pratt prefix; hot hits share topology object and remain non-materialized

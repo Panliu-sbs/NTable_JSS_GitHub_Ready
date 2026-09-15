@@ -1,0 +1,71 @@
+﻿order_index,generated_id,seed_no,variant_index,generated_expression,error_type,error_message
+9,235,10,23,X010V23O01().X010V23O02.(X010V23O02|X010V23O03|X010V23O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+54,232,10,20,X010V20O01().X010V20O02.(X010V20O02|X010V20O03|X010V20O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+66,2890,123,9,"dσ(⊕(X123V09O01, . . . , X123V09O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+77,231,10,19,X010V19O01().X010V19O02.(X010V19O02|X010V19O03|X010V19O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+190,2895,123,14,"dσ(⊕(X123V14O01, . . . , X123V14O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+282,2888,123,7,"dσ(⊕(X123V07O01, . . . , X123V07O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+364,218,10,6,X010V06O01().X010V06O02.(X010V06O02|X010V06O03|X010V06O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+365,228,10,16,X010V16O01().X010V16O02.(X010V16O02|X010V16O03|X010V16O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+381,2923,124,19,"⊕(dσ(X124V19O01), . . . , dσ(X124V19O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+450,223,10,11,X010V11O01().X010V11O02.(X010V11O02|X010V11O03|X010V11O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+457,2886,123,5,"dσ(⊕(X123V05O01, . . . , X123V05O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+495,2919,124,15,"⊕(dσ(X124V15O01), . . . , dσ(X124V15O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+661,2887,123,6,"dσ(⊕(X123V06O01, . . . , X123V06O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+720,2902,123,21,"dσ(⊕(X123V21O01, . . . , X123V21O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+721,2925,124,21,"⊕(dσ(X124V21O01), . . . , dσ(X124V21O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+750,2884,123,3,"dσ(⊕(X123V03O01, . . . , X123V03O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+800,2921,124,17,"⊕(dσ(X124V17O01), . . . , dσ(X124V17O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+903,2912,124,8,"⊕(dσ(X124V08O01), . . . , dσ(X124V08O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+910,2905,124,1,"⊕(dσ(X124V01O01), . . . , dσ(X124V01O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+915,2900,123,19,"dσ(⊕(X123V19O01, . . . , X123V19O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+938,2926,124,22,"⊕(dσ(X124V22O01), . . . , dσ(X124V22O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+977,2916,124,12,"⊕(dσ(X124V12O01), . . . , dσ(X124V12O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1024,227,10,15,X010V15O01().X010V15O02.(X010V15O02|X010V15O03|X010V15O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+1093,233,10,21,X010V21O01().X010V21O02.(X010V21O02|X010V21O03|X010V21O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+1100,2906,124,2,"⊕(dσ(X124V02O01), . . . , dσ(X124V02O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1150,2918,124,14,"⊕(dσ(X124V14O01), . . . , dσ(X124V14O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1169,213,10,1,X010V01O01().X010V01O02.(X010V01O02|X010V01O03|X010V01O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+1178,2907,124,3,"⊕(dσ(X124V03O01), . . . , dσ(X124V03O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1190,230,10,18,X010V18O01().X010V18O02.(X010V18O02|X010V18O03|X010V18O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+1220,2904,123,23,"dσ(⊕(X123V23O01, . . . , X123V23O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1241,229,10,17,X010V17O01().X010V17O02.(X010V17O02|X010V17O03|X010V17O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+1255,2889,123,8,"dσ(⊕(X123V08O01, . . . , X123V08O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1289,2883,123,2,"dσ(⊕(X123V02O01, . . . , X123V02O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1336,226,10,14,X010V14O01().X010V14O02.(X010V14O02|X010V14O03|X010V14O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+1479,2927,124,23,"⊕(dσ(X124V23O01), . . . , dσ(X124V23O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1550,2928,124,24,"⊕(dσ(X124V24O01), . . . , dσ(X124V24O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1702,2922,124,18,"⊕(dσ(X124V18O01), . . . , dσ(X124V18O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1761,2908,124,4,"⊕(dσ(X124V04O01), . . . , dσ(X124V04O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1767,2894,123,13,"dσ(⊕(X123V13O01, . . . , X123V13O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1780,219,10,7,X010V07O01().X010V07O02.(X010V07O02|X010V07O03|X010V07O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+1800,2915,124,11,"⊕(dσ(X124V11O01), . . . , dσ(X124V11O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1874,2891,123,10,"dσ(⊕(X123V10O01, . . . , X123V10O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+1923,2909,124,5,"⊕(dσ(X124V05O01), . . . , dσ(X124V05O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2032,221,10,9,X010V09O01().X010V09O02.(X010V09O02|X010V09O03|X010V09O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2049,2897,123,16,"dσ(⊕(X123V16O01, . . . , X123V16O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2050,2910,124,6,"⊕(dσ(X124V06O01), . . . , dσ(X124V06O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2095,2914,124,10,"⊕(dσ(X124V10O01), . . . , dσ(X124V10O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2098,234,10,22,X010V22O01().X010V22O02.(X010V22O02|X010V22O03|X010V22O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2131,2913,124,9,"⊕(dσ(X124V09O01), . . . , dσ(X124V09O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2180,2924,124,20,"⊕(dσ(X124V20O01), . . . , dσ(X124V20O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2268,2901,123,20,"dσ(⊕(X123V20O01, . . . , X123V20O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2282,217,10,5,X010V05O01().X010V05O02.(X010V05O02|X010V05O03|X010V05O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2290,225,10,13,X010V13O01().X010V13O02.(X010V13O02|X010V13O03|X010V13O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2321,2885,123,4,"dσ(⊕(X123V04O01, . . . , X123V04O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2380,224,10,12,X010V12O01().X010V12O02.(X010V12O02|X010V12O03|X010V12O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2405,2882,123,1,"dσ(⊕(X123V01O01, . . . , X123V01O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2493,2899,123,18,"dσ(⊕(X123V18O01, . . . , X123V18O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2499,220,10,8,X010V08O01().X010V08O02.(X010V08O02|X010V08O03|X010V08O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2552,2917,124,13,"⊕(dσ(X124V13O01), . . . , dσ(X124V13O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2569,214,10,2,X010V02O01().X010V02O02.(X010V02O02|X010V02O03|X010V02O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2624,2892,123,11,"dσ(⊕(X123V11O01, . . . , X123V11O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2649,2896,123,15,"dσ(⊕(X123V15O01, . . . , X123V15O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2703,2893,123,12,"dσ(⊕(X123V12O01, . . . , X123V12O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2745,215,10,3,X010V03O01().X010V03O02.(X010V03O02|X010V03O03|X010V03O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2769,222,10,10,X010V10O01().X010V10O02.(X010V10O02|X010V10O03|X010V10O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2791,2920,124,16,"⊕(dσ(X124V16O01), . . . , dσ(X124V16O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2799,216,10,4,X010V04O01().X010V04O02.(X010V04O02|X010V04O03|X010V04O04)*,UnsupportedStructuralFamily,ValueError: Empty parenthesized subexpression
+2828,2903,123,22,"dσ(⊕(X123V22O01, . . . , X123V22O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2883,2911,124,7,"⊕(dσ(X124V07O01), . . . , dσ(X124V07O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand
+2921,2898,123,17,"dσ(⊕(X123V17O01, . . . , X123V17O02))",UnsupportedStructuralFamily,ValueError: Binary operator '.' lacks an operand

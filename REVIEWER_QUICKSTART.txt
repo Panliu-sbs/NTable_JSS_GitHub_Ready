@@ -1,0 +1,18 @@
+N-TABLE REVIEWER QUICK START
+============================
+
+1) Core tests
+   cd core_rq3
+   python -m unittest discover -s tests -v
+
+2) Re-run RQ3
+   python experiments/run_shared_topology_incremental_3000.py --input ../data/rq3/generated_3000_structurally_similar_expressions.csv --output-dir ../reproduced_results/rq3
+
+3) Plot manuscript RQ3 figures
+   python -m pip install -r ../figures/rq3/requirements.txt
+   cd ../figures/rq3
+   python plot_rq3_structural_reusability_jupyter.py
+
+4) AST-EP / HT-EP reconstruction checks
+   cd ../../baselines/ast_ep_ht_ep
+   python test_reconstruction.py

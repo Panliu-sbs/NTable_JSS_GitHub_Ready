@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ntable-shared-topology-reuse"
+version = "0.4.0"
+description = "N-Table with structural-signature matching and zero-rematerialization shared AST topology reuse"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  {name = "N-Table reference implementation"}
+]
+dependencies = []
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
